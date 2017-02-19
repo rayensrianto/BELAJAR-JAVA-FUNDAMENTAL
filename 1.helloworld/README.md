@@ -69,7 +69,7 @@ HelloWorld
 ```
 Jika code yang kita tulis sudah benar, maka saat mengcompile menggunakan keyword javac pada terminal, maka tidak ada pesan error. Dan ketika kita jalankan dengan keyword java pada terminal, muncul lah tulisan HelloWolrd nya yang kita buat di "main method" tadi. *hore~
 
-Perlu di ketahui, setelah kita mengcompile dengan menuliskan "javac HelloWorld.java", maka secara otomatis akan ada file baru yang terbuat dengan nama HelloWolrd.class, jadi saat kita menjalankan perintah "java HelloWorld", yang di panggil itu adalah file HelloWolrd.class.
+Perlu di ketahui, setelah kita mengcompile dengan menuliskan "javac HelloWorld.java", maka secara otomatis akan ada file baru yang terbuat dengan nama HelloWolrd.class, jadi saat kita menjalankan perintah "java HelloWorld", yang di panggil itu adalah file HelloWorld.class.
 ```sh
 ryan@dmachine:~/belajar-java-basic/1.helloworld$ ls
 HelloWorld.class  HelloWorld.java
