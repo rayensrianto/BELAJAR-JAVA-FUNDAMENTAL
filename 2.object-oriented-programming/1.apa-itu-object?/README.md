@@ -18,7 +18,7 @@ Object pada sebuah aplikasi/pemograman, hampir sama dengan object pada benda dun
 
 Sebuah object menyimpan state ke dalam fields (misal, variabel dalam bahasa pemograman) dan memperlihatkan behavior melalui method (fungsi dalam bahasa pemograman). Method berkerja sesuai dengan nilai yang ada pada state. Misal kita mempunya object manusia yang memiliki fields nama pekerjaan dan method tugas pekerjaan, maka jika nama pekerjaannya programmer, maka tugas pekerjaan adalah coding. Mungkin masih agak sulit memahami ini karena memang materi OOP butuh sering-sering berkhayal :D
 
-Untuk contoh lagi, misal kita kembali menggunakan sepeda sebagai object, sepeda memiliki state antara lain gigi, irama pedal, dan kecepatan. Maka sepeda mengontrol pengguna sepeda untuk menggunakan state tersebut, pengontrol itu adalah method nya. Misal ada sebuah method yang bertugas untuk hanya bisa mengganti gigi dari gigi 1 paling kecil dan gigi 6 paling tinggi, kita tidak bisa menggunakan gigi 7 karna sudah di atur oleh method ini.
+Untuk contoh lagi, misal kita kembali menggunakan sepeda sebagai object, sepeda memiliki state antara lain gigi, irama pedal, dan kecepatan. Maka sepeda mengontrol pengguna sepeda untuk menggunakan state tersebut, pengontrol itu adalah method nya. Misal ada sebuah method yang bertugas untuk hanya bisa mengganti gigi dari gigi 1 paling kecil dan gigi 6 paling tinggi, kita tidak bisa menggunakan gigi 7 karna sudah di atur oleh method ini. Jadi bisa disimpulkan lagi bahwa, object mendefinisikan interaksi object dengan dunia luar melalui method yang di jalankan.
 
 > **Saran:**
 
