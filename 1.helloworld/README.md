@@ -35,7 +35,9 @@ public class HelloWorld {
 }
 ```
 Setelah itu, save.
+
 **Penjelasan Sedikit tentang code yang di tulis**
+
 Setahu saya, pada dasarnya pemograman java adalah kumpulan class class yang saling terhubung.
 Nah, di file yang kita buat ini terdapat sebuah class yang bernama HelloWorld dan berisi "main method" atau method utama. Ini adalah class yang wajib di tulis dalam setiap aplikasi(dekstop) java karna berisi "main method"
 Nama class HelloWorld ini harus sama dengan nama file nya, tadi kan kita buat file dengan nama Helloworld.java, jadi ya nama class nya juga Hellowolrd.
